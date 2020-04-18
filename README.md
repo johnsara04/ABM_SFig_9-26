@@ -1,5 +1,5 @@
-# ABM_SFig_9-26
-Supplementary Figures 9-26 for the paper 'Modelling the effects of lymph node swelling on T-cell response'
+# ABM_Supplementary Figures 
+Supplementary figures 1-8 and UML diagrams (supplementary figures 9-26) for the paper 'Modelling the effects of lymph node swelling on T-cell response'
 
 Sarah C. Johnson 1, Jennifer Frattolin 1, Lowell T. Edgar 1, Mohammad Jafarnejad 2, and James E. Moore Jr. 1,∗
 
