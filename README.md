@@ -16,3 +16,5 @@ james.moore.jr@imperial.ac.uk
 Second correspondance 
 Sarah Johnson
 s.johnson13@imperial.ac.uk
+
+Model available at https://github.com/johnsara04/paracortex_model_johnson19
