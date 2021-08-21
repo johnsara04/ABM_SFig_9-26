@@ -1,9 +1,9 @@
 # ABM_Supplementary Figures 
 Supplementary material for the paper 'Lymph node swelling combined with temporary effector T cell retention aids T cell response in a model of adaptive immunity'
 
-S1 File. Supplementary Methods A. 1.1 LN swelling, 1.2 TC recruitment, 1.3 Agent migration, 1.4 Agent interaction and signal integration. Parameter Tables.
+S1 File. Supplementary Methods A. 1.1 LN geometry and swelling, 1.2 TC recruitment, 1.3 Agent migration, 1.4 Agent interaction and signal integration. 1.5 Building the class-based model. 1.6 Running the model in repastSimphony. Parameter Tables.
 
-S2 File. Supplementary Methods B. UML diagrams. 
+S2 File. Supplementary Methods B. 1.1. Building the model. UML diagrams. 
 
 S3 File. Supplementary Results A. Model calibration (Fig A), model validation (Fig B-D) and LN swelling results (Fig E).
 
